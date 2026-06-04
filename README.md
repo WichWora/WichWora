@@ -92,6 +92,6 @@ Console-based billing & inventory system covering **10+ service categories** wit
 
 ## Let's connect
 
-📧 wichwora2222@gmail.com.my · 📱 +601155042993 · 📍 Kuala Lumpur, Malaysia
+📧 wichwora2222@gmail.com.my  · 📍 Kuala Lumpur, Malaysia
 
 > Open to internship from **2 November 2026 to 18 April 2027** · Extension welcome
