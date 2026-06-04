@@ -13,7 +13,7 @@ Final-year IT student @ TARUMT · Available for internship Nov 2026 – Apr 2027
 
 </div>
 
----
+----
 
 ## About me
 
