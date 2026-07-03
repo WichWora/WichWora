@@ -33,8 +33,8 @@ I write clean, documented code and bring a **security-first lens** to every laye
 ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-185FA5?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-185FA5?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat-square)
-![Java](https://img.shields.io/badge/SQL-185FA5?style=flat-square)
-![Python](https://img.shields.io/badge/SQL-185FA5?style=flat-square)
+![Java](https://img.shields.io/badge/Java-185FA5?style=flat-square)
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square)
 
 
 **Frameworks & Tools**
