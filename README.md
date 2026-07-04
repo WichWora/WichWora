@@ -2,7 +2,7 @@
 
 # Worawich Champhakeow
 
-**Information Security · Full-Stack Developer · CCNA Certified**
+**Information Security · Full-Stack Developer · CCNA Verified**
 
 Final-year IT student @ TARUMT · Available for internship Nov 2026 – Apr 2027
 
