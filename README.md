@@ -19,7 +19,7 @@ Final-year IT student @ TARUMT · Available for internship Nov 2026 – Apr 2027
 
 I build things from scratch — **web platforms, mobile apps, and console systems** — and I secure them.
 Currently finishing my degree in **Information Security** at TARUMT, where I've led scheduling and student-progress modules
-for a 5-developer team project, earned two **Cisco CCNA certifications**, and produced graded research on
+for a 5-developer team project, earned two **Cisco CCNA verification**, and produced graded research on
 **AES/RSA cryptography** and phishing attack vectors.
 I write clean, documented code and bring a **security-first lens** to every layer of the stack.
 
@@ -61,7 +61,7 @@ I write clean, documented code and bring a **security-first lens** to every laye
 ### 🏊 AquaSwim — Swimming Academy Management System
 > ASP.NET Core · JavaScript · MySQL · Google Maps API
 
-Led design and delivery of the class scheduling & student progress module in a **5-developer agile team**. Implemented full CRUD for 5+ program types, integrated Google Maps API for multi-pool locations and SMS notification hooks. Co-authored a monetisation strategy projecting **RM 156,100 first-year revenue**.
+Led design and delivery of the class scheduling & student progress module in a **5-developer agile team**. Implemented full CRUD for 5+ program types, integrated Google Maps API for multi-pool locations and SMS notification hooks.
 
 ---
 
@@ -90,6 +90,7 @@ Console-based billing & inventory system covering **10+ service categories** wit
 
 - ✅ **CCNA: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy, Oct 2025
 - ✅ **CCNA: Introduction to Networks** — Cisco Networking Academy, Jun 2025
+- - ✅ **CCNA:Enterprise Networking** — Cisco Networking Academy, Jun 2026
 
 ---
 
