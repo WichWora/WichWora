@@ -90,7 +90,7 @@ Console-based billing & inventory system covering **10+ service categories** wit
 
 - ✅ **CCNA: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy, Oct 2025
 - ✅ **CCNA: Introduction to Networks** — Cisco Networking Academy, Jun 2025
-- - ✅ **CCNA:Enterprise Networking** — Cisco Networking Academy, Jun 2026
+- ✅ **CCNA:Enterprise Networking** — Cisco Networking Academy, Jun 2026
 
 ---
 
