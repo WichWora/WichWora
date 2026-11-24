@@ -17,7 +17,6 @@ Final-year IT student @ TARUMT · Available for internship Nov 2026 – Apr 2027
 
 ## About me
 
-I build things from scratch — **web platforms, mobile apps, and console systems** — and I secure them.
 Currently finishing my degree in **Information Security** at TARUMT, where I've led scheduling and student-progress modules
 for a 5-developer team project, earned two **Cisco CCNA verification**, and produced graded research on
 **AES/RSA cryptography** and phishing attack vectors.
